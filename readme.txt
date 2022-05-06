@@ -7,3 +7,4 @@ Git tracks changes of files.
 Git tracks changes of files.
 Creating a new branch is quick.2
 >>>>>>> dev
+Add merge of no-ff model.
